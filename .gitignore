@@ -9,7 +9,7 @@ xcuserdata/
 
 **/*.DS.Store
 
-**/Concentration.xcodeproj/*
+**/.xcodeproj/*
 
 *.pbxproj
 
